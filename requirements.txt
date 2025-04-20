@@ -12,5 +12,5 @@ pymongo==4.12.0
 python_jose==3.4.0
 starlette==0.46.2
 tensorflow==2.18.0
-tensorflow_intel==2.18.0
+tensorflow==2.18.0
 uvicorn==0.34.2
