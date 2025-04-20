@@ -2,7 +2,7 @@ fastapi==0.115.12
 joblib==1.4.2
 jose==1.0.0
 mediapipe==0.10.21
-numpy==2.2.5
+numpy==1.26.4
 opencv_contrib_python==4.11.0.86
 opencv_python==4.10.0.84
 opencv_python_headless==4.11.0.86
@@ -11,6 +11,5 @@ pydantic==2.11.3
 pymongo==4.12.0
 python_jose==3.4.0
 starlette==0.46.2
-tensorflow==2.18.0
 tensorflow==2.18.0
 uvicorn==0.34.2
