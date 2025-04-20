@@ -6,7 +6,9 @@ logger = logging.getLogger(__name__)
 
 # Connection settings for MongoDB
 # MONGO_URI = "mongodb://localhost:27017"
-MONGO_URI = "mongodb+srv://grad_project_632:RwaujPy1vrnGeHSQ@cluster0.wo9llcy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+# MONGO_URI = "mongodb+srv://grad_project_632:RwaujPy1vrnGeHSQ@cluster0.wo9llcy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = "mongodb+srv://grad_project_632:RwaujPy1vrnGeHSQ@cluster0.wo9llcy.mongodb.net/?retryWrites=true&w=majority&tls=true&appName=Cluster0"
+
 MONGO_DB_NAME = "workout_tracker"
 
 # Global references
